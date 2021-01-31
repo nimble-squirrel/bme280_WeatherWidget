@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Weather Widget
+Icon=/home/pi/my_ws/module_bme280/icons/Sun2.png
+Exec=python /home/pi/my_ws/module_bme280/App/WW.py
+Terminal=false
+Type=Application
