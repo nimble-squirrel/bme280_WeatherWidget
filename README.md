@@ -37,8 +37,15 @@ Type=Application
 ### Your Weather Widget - Tiny room Weather App on your Raspberry Pi.
 ![alt text](docs/WW_GUI.png?raw=true)
 
+
+
 ### Interacting
 ![alt text](icons/button_pressed.png?raw=true)
+
+
+
+### Implementation
+![alt text](docs/Diagramm.png?raw=true)
 
 
 
