@@ -1,4 +1,4 @@
-# bme280_weather_widget
+# bme280_kernel_weather_widget
 
 University project: developed kernel module (driver) (module/bme280_driver)
 for communication between Kernel- and User-Space. 
