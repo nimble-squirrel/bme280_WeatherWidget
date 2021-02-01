@@ -3,6 +3,7 @@
 ![alt text](docs/WeatherWidget_Desktop.png?raw=true)
 
 ## HOW TO SETUP
+
 1. Connect Hardware as shown on the wiring diagram below
 
 2. Compile and load kernel module:
@@ -18,6 +19,7 @@ cp WeatherWidget.desktop /home/pi/Desktop/
 ```
 
 4. Edit WeatherWidget.desktop in order to use right paths
+(Some pathes in WW.py can be also broken -> TODO)
 
 ```cmd
 [Desktop Entry]
