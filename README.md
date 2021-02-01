@@ -1,4 +1,8 @@
 # bme280_WeatherWidget
+
+University project: developed kernel module (driver) (module/bme280_driver)
+for communication between Kernel- and User-Space. 
+Data processing in User Space. User Space App is written in Python (/App)
 ## Desktop Weather
 ![alt text](docs/WeatherWidget_Desktop.png?raw=true)
 
@@ -56,5 +60,4 @@ Type=Application
 - LED, Button, Resistor
 - Some breadboard wires
 
-![alt text](docs/Schaltplan.jpeg?raw=true)
 
