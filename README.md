@@ -44,7 +44,7 @@ Type=Application
 
 
 ### Interacting
-![alt text](icons/button_pressed.png?raw=true)
+![alt text](docs/Button_pressed.png.JPG?raw=true)
 
 
 
