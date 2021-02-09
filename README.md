@@ -3,6 +3,11 @@
 University project: developed kernel module (driver) (module/bme280_driver)
 for communication between Kernel- and User-Space. 
 Data processing in User Space. User Space App is written in Python (/App)
+
+## Kernel Version
+Linux version 4.9.35-v7+
+gcc version 4.9.3
+
 ## Desktop Weather
 ![alt text](docs/WeatherWidget_Desktop.png?raw=true)
 
